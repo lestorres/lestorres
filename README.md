@@ -1,4 +1,4 @@
-## Hi there my name is Lesmes Torres👋
+## Hi there, my name is Lesmes Torres👋
 
 <!--
 **lestorres/lestorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Machine learning and Linux.
 
-📫 My linkedin: Lesmes Torres ![figure_1](www.linkedin.com/in/lesmes-torres-b66705217)
+📫 My LinkedIn: [Lesmes Torres](https://www.linkedin.com/in/lesmes-torres-b66705217)
