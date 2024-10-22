@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’ll been posting proyects of my carreer in Electronics Engineering and some Iot personal proyects
+🌱 I’ll been posting proyects of my carreer in Electronics Engineering and some Iot personal proyects.
 
-🌱 I’m currently learning Machine learning and Linux  
+🌱 I’m currently learning Machine learning and Linux.
 
+📫 My linkedin: Lesmes Torres ![figure_1](www.linkedin.com/in/lesmes-torres-b66705217)
