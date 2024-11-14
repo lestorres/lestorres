@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Machine learning and Linux.
 
+🌱 I'm giving my first steps in Quantum Computing.
+
 📫 My LinkedIn: [Lesmes Torres](https://www.linkedin.com/in/lesmes-torres-b66705217)
