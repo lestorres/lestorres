@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 🌱 I'm giving my first steps in Quantum Computing.
 
-📫 My LinkedIn: [Lesmes Torres](www.linkedin.com/in/lesmestttorres)
+📫 My LinkedIn: [Lesmes Torres](https://www.linkedin.com/in/lesmestttorres)
